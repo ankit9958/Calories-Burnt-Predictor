@@ -25,3 +25,4 @@ You can install them using pip:
 **Input Data Format:**
 The prediction system expects input data in the following format: (Gender, Age, Height, Weight, Duration, Heart_Rate, Body_Temp)
 
+![Screenshot 2024-10-06 231832](https://github.com/user-attachments/assets/a78a2f3a-c7a5-473a-b522-c6227664a10e)
